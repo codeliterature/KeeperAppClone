@@ -1,4 +1,4 @@
-wr
+
 # Keeper App Clone
 
 Welcome to the Keeper App Clone project!
