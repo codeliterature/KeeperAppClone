@@ -11,3 +11,5 @@ This is a clone of the popular Keeper App, allowing users to create and manage n
 - Edit existing notes
 - Delete notes
 - Local storage functionality to persist data between sessions.
+
+[`Live Preview`](https://keeperapp-clone.netlify.app/)
